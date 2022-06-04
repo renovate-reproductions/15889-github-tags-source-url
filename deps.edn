@@ -1,0 +1,5 @@
+{
+  :deps {
+    io.github.metosin/malli {:git/sha "aaaaaa"} 
+  }
+}
